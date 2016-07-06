@@ -1,2 +1,2 @@
-ts3musicbot
+tSYSmusicbot
 ===========
